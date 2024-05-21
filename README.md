@@ -5,7 +5,7 @@
 <p></p>
 <h3 align=center >A Creative Fullstack Developer and UI/UX Designer.<h3>
 
-<div align='center'><img src='https://github.com/KaiAlan/KaiAlan/blob/main/assets/Status-Screen-no-bg.png?raw=true' />
+<div align='center'><img src='https://github.com/KaiAlan/KaiAlan/blob/main/assets/Status-Scrren-no-bg.png?raw=true' />
 </div>
 
 ### What I Do
