@@ -1,10 +1,11 @@
-[![An image of @kaialan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaialan)](https://holopin.io/@kaialan)
 
 
 
-<h1 align=center >Hey there! 👋 </h1>
+<h3 align=center>
+    Hey there! 👋
+    <h3 align=center >I'm <span>Kaialan</span> (Satya), a creative Fullstack Developer and UI/UX Designer.<h3>
+</h3>
 
-<div align=center >I'm <span>Kaialan</span> (Satya), a creative Fullstack Developer and UI/UX Designer.</div>
 
 
 ### What I Do
@@ -30,9 +31,12 @@
 
 <div align=center>
 <h3>Let's Connect</h3>
-Find me on <a href='https://linkedin.com/in/kaialan'>LinkedIn</a> or <a href='https://twitter.com/KaiAlan_'>Twitter</a>
+<p>Find me on <a href='https://linkedin.com/in/kaialan'>LinkedIn</a> or <a href='https://twitter.com/KaiAlan_'>Twitter</a></p>
 
 </div>
+
+
+[![An image of @kaialan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaialan)](https://holopin.io/@kaialan)
 
 <!---
 KaiAlan/KaiAlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
